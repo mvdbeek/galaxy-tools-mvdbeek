@@ -1,0 +1,10 @@
+categories:
+- Sequence Analysis
+description: Filter mapped reads
+homepage_url: http://search.cpan.org/dist/XML-XPath/
+long_description: |
+  Filter mapped reads where the mapping spans a junction, retaining the 5-prime read
+name: bellerophon
+owner: iuc
+remote_repository_url: https://github.com/mvdbeek/galaxy-tools-mvdbeek/tree/master/tools/bellerophon
+type: unrestricted
