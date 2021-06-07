@@ -1,0 +1,10 @@
+categories:
+- Sequence Analysis
+description: Filter reads that span a mapping junction, retaining the 5'-side.
+homepage_url: http://www.bcgsc.ca/platform/bioinfo/software/abyss
+long_description: |
+  Filter reads that span a mapping junction, retaining the 5'-side.
+name: bellerophon
+owner: iuc
+remote_repository_url: https://github.com/mvdbeek/galaxy-tools-mvdbeek/tree/master/tools/belerophon
+type: unrestricted
